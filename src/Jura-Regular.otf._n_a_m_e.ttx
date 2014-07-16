@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <name>
+    <namerecord nameID="0" platformID="1" platEncID="0" langID="0x0">
+      Copyright 2009, 2010, 2011 by Daniel Johnson.  Released under the terms of the Open Font License.
+    </namerecord>
+    <namerecord nameID="1" platformID="1" platEncID="0" langID="0x0">
+      Jura
+    </namerecord>
+    <namerecord nameID="2" platformID="1" platEncID="0" langID="0x0">
+      Book
+    </namerecord>
+    <namerecord nameID="3" platformID="1" platEncID="0" langID="0x0">
+      FontForge 2.0 : Jura Book : 16-2-2011
+    </namerecord>
+    <namerecord nameID="4" platformID="1" platEncID="0" langID="0x0">
+      Jura Book
+    </namerecord>
+    <namerecord nameID="5" platformID="1" platEncID="0" langID="0x0">
+      Version 2.5 
+    </namerecord>
+    <namerecord nameID="6" platformID="1" platEncID="0" langID="0x0">
+      JuraBook
+    </namerecord>
+    <namerecord nameID="14" platformID="1" platEncID="0" langID="0x0">
+      http://scripts.sil.org/OFL
+    </namerecord>
+    <namerecord nameID="16" platformID="1" platEncID="0" langID="0x0">
+      Jura
+    </namerecord>
+    <namerecord nameID="17" platformID="1" platEncID="0" langID="0x0">
+      Book
+    </namerecord>
+    <namerecord nameID="0" platformID="3" platEncID="1" langID="0x409">
+      Copyright 2009, 2010, 2011 by Daniel Johnson.  Released under the terms of the Open Font License.
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x409">
+      Jura
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x409">
+      Book
+    </namerecord>
+    <namerecord nameID="3" platformID="3" platEncID="1" langID="0x409">
+      FontForge 2.0 : Jura Book : 16-2-2011
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x409">
+      JuraBook
+    </namerecord>
+    <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">
+      Version 2.5 
+    </namerecord>
+    <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
+      JuraBook
+    </namerecord>
+    <namerecord nameID="14" platformID="3" platEncID="1" langID="0x409">
+      http://scripts.sil.org/OFL
+    </namerecord>
+  </name>
+
+</ttFont>

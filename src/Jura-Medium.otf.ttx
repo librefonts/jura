@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont sfntVersion="OTTO" ttLibVersion="2.4">
+  <GlyphOrder src="Jura-Medium.otf.GlyphOrder.ttx"/>
+  <head src="Jura-Medium.otf._h_e_a_d.ttx"/>
+  <hhea src="Jura-Medium.otf._h_h_e_a.ttx"/>
+  <maxp src="Jura-Medium.otf._m_a_x_p.ttx"/>
+  <OS_2 src="Jura-Medium.otf.O_S_2f_2.ttx"/>
+  <name src="Jura-Medium.otf._n_a_m_e.ttx"/>
+  <cmap src="Jura-Medium.otf._c_m_a_p.ttx"/>
+  <post src="Jura-Medium.otf._p_o_s_t.ttx"/>
+  <CFF src="Jura-Medium.otf.C_F_F_.ttx"/>
+  <FFTM src="Jura-Medium.otf.F_F_T_M_.ttx"/>
+  <GPOS src="Jura-Medium.otf.G_P_O_S_.ttx"/>
+  <hmtx src="Jura-Medium.otf._h_m_t_x.ttx"/>
+</ttFont>
