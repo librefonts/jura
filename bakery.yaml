@@ -1,0 +1,7 @@
+commit: HEAD
+process_files: [Jura-Light.ttf.ttx, Jura-Medium.ttf.ttx, Jura-Regular.ttf.ttx, Jura-DemiBold.ttf.ttx,
+  src/Jura-DemiBold.otf.ttx, src/Jura-Medium.otf.ttx, src/Jura-Regular.otf.ttx, src/Jura-Light.otf.ttx,
+  src/Jura-DemiBold-TTF.sfd, src/Jura-Medium-TTF.sfd, src/Jura-Regular-TTF.sfd, src/Jura-Light-TTF.sfd]
+pyftsubset: --notdef-outline --name-IDs=* --hinting
+subset: [latin]
+ttfautohint: -l 7 -r 28 -G 50 -x 13 -w "G"
